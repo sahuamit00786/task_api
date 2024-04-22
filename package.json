@@ -10,7 +10,7 @@
     "nodemon": "^3.1.0"
   },
   "scripts": {
-    "start": "node server.js",
+    "start": "node server.js"
   },
   "name": "backend",
   "type": "module",
